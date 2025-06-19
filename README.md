@@ -21,8 +21,7 @@ A responsive web application that provides real-time weather updates based on us
 
 ## 🚀 Live Demo
 
-👉 [View Live](https://yourusername.github.io/weather-app/)  
-> _(Replace this link with your GitHub Pages URL once deployed)_
+👉 [View Live](https://github.com/Saadhanaa07/PRODIGY_WD_05)  
 
 ---
 
@@ -39,6 +38,6 @@ A responsive web application that provides real-time weather updates based on us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone -https://github.com/Saadhanaa07/PRODIGY_WD_05
    cd weather-app
    
